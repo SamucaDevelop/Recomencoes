@@ -1,0 +1,39 @@
+.mtb {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: 20px;
+    
+}
+
+.stb {
+    display: flex;
+    align-items: start;
+    height: 70px;
+    font-size: 30px;
+
+}
+
+.container { 
+    display: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+
+body {
+    background-color: rgb(60, 60, 112);
+
+}
+
+.title > a {
+text-decoration: none;
+font-weight: 700;
+font-size: 39px;
+color: black;
+animation-delay: 5s;
+
+}
